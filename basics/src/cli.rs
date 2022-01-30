@@ -5,5 +5,4 @@ pub fn run() {
     println!("{:?}", args);
     let command = args[1].clone();
     println!("Command {}", command);
-    
 }
