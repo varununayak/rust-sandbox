@@ -1,5 +1,4 @@
 use std::env;
-use assert_fs::prelude::*;
 
 pub fn run() {
     let args: Vec<String> = env::args().collect();
